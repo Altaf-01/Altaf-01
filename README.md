@@ -8,7 +8,7 @@ Exploring New Technologies
 Skills: PYTHON / KOTLIN
 
 - 🔭 I’m currently working on App Development 
-- 🌱 I’m currently learning App Development and Python 
+- 🌱 I’m currently learning Kotlin and Python 
 - 👯 I’m looking to collaborate on App Development 
 - 🤔 I’m looking for help with App Development  
 - ⚡ Fun fact: Code Geass is the best Anime 
