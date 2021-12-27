@@ -1,7 +1,6 @@
 ### Hi there 👋, The Name is Altaf
 #### I am Rookie Developer
-
-![I am Rookie Developer](https://camo.githubusercontent.com/980fbf22a352b8d5901771ab3eae644fa2a6fffa9022a3b87ddb19ea00b19bf7/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f636f646567656173732f696d616765732f332f33322f4f72616e67655f41735f4f72616e67655f4661726d65722e706e67)
+![account banner](https://user-images.githubusercontent.com/91909939/147485779-77e38c95-cb17-43ee-8b81-108a67903a1c.png))
 
 Exploring New Technologies
 
