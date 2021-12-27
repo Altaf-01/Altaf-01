@@ -4,8 +4,8 @@
 
 Exploring New Technologies
 
-- 🔭 I’m currently working on App Development 
-- 🌱 I’m currently learning Kotlin and Python 
+- 🔭 I’m currently working on Progressive Web App Development 
+- 🌱 I’m currently learning HTML and CSS
 - 👯 I’m looking to collaborate on App Development 
 - 🤔 I’m looking for help with App Development  
 - ⚡ Fun fact: Code Geass is the best Anime 
