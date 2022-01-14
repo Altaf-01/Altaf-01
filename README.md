@@ -1,5 +1,5 @@
 ### Hi there 👋, The Name is Altaf
-#### I am Rookie Developer
+#### I am a Rookie Developer
 ![account banner](https://user-images.githubusercontent.com/91909939/147485779-77e38c95-cb17-43ee-8b81-108a67903a1c.png)
 
 Exploring New Technologies
