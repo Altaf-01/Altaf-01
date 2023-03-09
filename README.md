@@ -4,11 +4,8 @@
 
 Exploring New Technologies
 
-- 🔭 I’m currently working on Progressive Web App Development 
-- 🌱 I’m currently learning HTML and CSS
-- 👯 I’m looking to collaborate on App Development 
-- 🤔 I’m looking for help with App Development  
-- ⚡ Fun fact: Code Geass is the best Anime 
+- 🔭 I’m currently working on Machine Learning and Deep learning  
+- 🌱 I’m currently learnig various classification algorithm in ML
 
 <hr>
 
@@ -21,17 +18,10 @@ Exploring New Technologies
 <h3 align="left">Contacts :</h3>
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/altaf01)  
- https://g.dev/Altaf-01
+
 
 <hr>
 
-<h3 align="left">Stats :</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altaf-01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Altaf-01&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/Altaf-01)  
 
 <!---
 Altaf-01/Altaf-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
