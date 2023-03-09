@@ -5,7 +5,7 @@
 Exploring New Technologies
 
 - 🔭 I’m currently working on Machine Learning and Deep learning  
-- 🌱 I’m currently learnig various classification algorithm in ML
+- 🌱 I’m currently learning various classification algorithm in ML
 
 <hr>
 
