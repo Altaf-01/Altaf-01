@@ -23,7 +23,12 @@ Exploring New Technologies
 
 <hr>
 
+<h3 align="left">Pins :</h3>
 
+[![An image of @badgecollector's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/badgecollector)](https://holopin.io/@badgecollector)
+
+
+<hr>
 <!---
 Altaf-01/Altaf-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
